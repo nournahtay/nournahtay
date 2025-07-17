@@ -1,5 +1,2 @@
-# **Welcome to My Github**
-<!---
-nournahtay/nournahtay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# **Welcome to My Github!!**
+## My Name is Nour Nahtay, a Bioinformatics Researcher with a Bachelor's of Science in Biochemistry
