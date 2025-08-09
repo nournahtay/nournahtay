@@ -6,8 +6,8 @@ I'm a bioinformatics researcher with a year worth of experience in genomics & tr
 
 ### Technical Skills:
 * **Programming Languages:** R, Bash & Python
-* **Omics Techniques:** Bulk RNA-Seq Analysis, Microbial Genomics (Bacterial & Viral)
-* **Statistics Softwares:** SPSS, GraphPad Prism, SAS
+* **Omics Techniques:** Bulk RNA-Seq Analysis with R, Microbial Genomics (Bacterial & Viral) with bash
+* **Statistics Softwares:** SPSS, GraphPad Prism
 * **Database:** SQL
 * **Bioinformatics Tools:** DESeq2, TCGABiolinks, edgeR, rgitools, ggplot2, TidyVerse, limma
 
