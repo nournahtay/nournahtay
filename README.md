@@ -10,8 +10,6 @@ I'm a bioinformatics researcher with a year worth of experience in genomics & tr
 * **Statistics Softwares:** SPSS, GraphPad Prism, SAS
 * **Database:** SQL
 * **Bioinformatics Tools:** DESeq2, TCGABiolinks, edgeR, rgitools, ggplot2, TidyVerse, limma
-* **Machine Learning:** randomForest
-* **Epidemiology Tools:** survival/survminer
 
 ### Projects:
 ### 1. [Uncovering Therapeutic Targets and Key Biomarkers from TCGA Datasets – Biomarker Discovery Internship, HackBio](https://github.com/nournahtay/Biomarker_Discovery_Hackbio)
