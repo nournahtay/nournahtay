@@ -1,4 +1,4 @@
-# **Welcome to My Github!!**
+# **Welcome to My Github 👩‍💻!!**
 
 ## I'm Nour, a junior bioinformatician with a bachelor's degree in biochemistry.
 
