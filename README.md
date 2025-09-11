@@ -7,7 +7,7 @@ I'm a bioinformatics researcher with a year worth of experience in genomics & tr
 ### Technical Skills:
 * **Programming Languages:** R, Bash & Python
 * **Omics Techniques:** WGS Analysis with Bash, Bulk RNA-Seq with R & Bash, Resistome Analysis with Bash, Variant Calling with Bash
-* **Statistics Softwares:** SPSS, GraphPad Prism
+* **Statistics Software:** SPSS, GraphPad Prism
 * **Database:** SQL
 * **Bioinformatics Tools:** SRA-toolKit, BWA, samtools, IGV, FreeBayes, viralrecon, DESeq2, TCGABiolinks, edgeR, rgitools, ggplot2, limma, bcftools
 
