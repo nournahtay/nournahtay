@@ -10,7 +10,7 @@ I have a year worth of experience in genomics & transcriptomics with interest in
 * **Omics Technologies:** WGS Analysis with Bash, Bulk RNA-Seq with R & Bash, Resistome Analysis with Bash, Variant Calling with Bash
 * **Statistics Software:** SPSS, GraphPad Prism
 * **Database:** SQL
-* **Bioinformatics Tools:** SRA-toolKit, BWA, samtools, IGV, FreeBayes, viralrecon, DESeq2, TCGABiolinks, edgeR, rgitools, ggplot2, limma, samtools
+* **Bioinformatics Tools:** SRA-toolKit, BWA, samtools, IGV, FreeBayes, viralrecon, DESeq2, TCGABiolinks, edgeR, rgitools, ggplot2, limma, samtools, TrimGalore
 
 ### ⭐ Projects
 ### 1. [Uncovering Therapeutic Targets and Key Biomarkers of Cancer from Transcriptome](https://github.com/nournahtay/rnaseq-biomarker-discovery)
